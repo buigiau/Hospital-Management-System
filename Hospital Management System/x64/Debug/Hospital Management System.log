@@ -1,0 +1,7 @@
+﻿  Hospital Management System.cpp
+C:\Users\sacsi\OneDrive\Máy tính\Hospital Management System\Hospital Management System\Hospital Management System.cpp(583,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sacsi\OneDrive\Máy tính\Hospital Management System\Hospital Management System\Hospital Management System.cpp(585,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sacsi\OneDrive\Máy tính\Hospital Management System\Hospital Management System\Hospital Management System.cpp(586,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sacsi\OneDrive\Máy tính\Hospital Management System\Hospital Management System\Hospital Management System.cpp(586,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\sacsi\OneDrive\Máy tính\Hospital Management System\Hospital Management System\Hospital Management System.cpp(2151,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Hospital Management System.vcxproj -> C:\Users\sacsi\OneDrive\Máy tính\Hospital Management System\x64\Debug\Hospital Management System.exe

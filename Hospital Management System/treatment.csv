@@ -1,0 +1,11 @@
+Treatment ID,Doctor ID,Patient ID,Start,End,Description
+1,1,1,14/5/2023,20/7/2023,Heart disease
+2,2,9,3/3/2023,10/3/2023,Migraine
+3,3,2,1/1/2024,15/1/2024,Toothache
+4,4,3,11/12/2023,20/12/2023,Skin rash
+5,5,5,1/4/2023,10/4/2023,Childhood illness
+6,6,4,1/4/2023,15/4/2024,Cancer treatment
+7,7,10,4/4/2023,18/5/2023,Bone fracture
+8,8,7,1/6/2023,20/6/2023,Pregnancy care
+9,9,6,2/9/2023,15/12/2023,Surgery
+10,10,8,11/11/2023,25/11/2024,Neurological disorder

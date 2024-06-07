@@ -1,0 +1,7 @@
+Appointment ID,Doctor ID,Patient ID,Date,Status,Location
+2,2,2,13/05/2024,Confirmed,203
+3,3,3,30/12/2023,Confirmed,202
+4,5,4,1/1/2024,Confirmed,302
+5,6,5,22/11/2023,Confirmed,512
+6,8,6,2/2/2024,Confirmed,411
+7,9,10,25/5/2024,Pending,401
